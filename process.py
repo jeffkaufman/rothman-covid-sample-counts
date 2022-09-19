@@ -56,7 +56,11 @@ with open("/Users/jeffkaufman/tmp.county.counts") as inf:
             latest.pop(0)
             latest.append(delta)
 
-            county_cases[county, str(day)] = sum(latest)/7
+            county_cases[
+                county,
+                # https://www.jefftk.com/p/careful-with-trailing-averages
+                str(day - datetime.timedelta(days=3))
+            ] = sum(latest)/7
             
             day = day + datetime.timedelta(days=1)
             column += 1
