@@ -22,7 +22,7 @@ county_pops = {
 
 county_cases = {}
     
-with open("/Users/jeffkaufman/tmp.sample.plant.date.enrichment.reads") as inf:
+with open("sample.plant.date.enrichment.reads") as inf:
     for line in inf:
         line = line.strip()
         if '20' not in line:
@@ -40,7 +40,7 @@ with open("/Users/jeffkaufman/tmp.sample.plant.date.enrichment.reads") as inf:
         
         counts[county, "%s-%s-%s" % (y, m.zfill(2), d.zfill(2))] += count
 
-with open("/Users/jeffkaufman/tmp.county.counts") as inf:
+with open("county.counts") as inf:
     for line in inf:
         line = line.strip().split(',')
         county = line[5]

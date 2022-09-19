@@ -1,0 +1,1000 @@
+Sample	Plant	Collection_date	Enrichment	Deduplicated_Reads
+HTP_10_02_2020	HTP	10.2.2020	Enriched	5762100
+HTP_10_13_2020	HTP	10.13.2020	Enriched	5143924
+HTP_10_20_2020	HTP	10.20.2020	Enriched	5200402
+HTP_10_27_2020	HTP	10.27.2020	Enriched	4716038
+HTP_8_11_2020	HTP	8.11.2020	Enriched	2814414
+HTP_8_18_2020	HTP	8.18.2020	Enriched	5606090
+HTP_8_25_2020	HTP	8.25.2020	Enriched	5267284
+HTP_9_01_2020	HTP	9.1.2020	Enriched	5107134
+HTP_9_08_2020	HTP	9.8.2020	Enriched	4254736
+HTP_9_15_2020	HTP	9.15.2020	Enriched	4051874
+JWPCP_10_20_2020	JWPCP	10.20.2020	Enriched	4543754
+JWPCP_10_27_2020	JWPCP	10.27.2020	Enriched	5916976
+JWPCP_10_06_2020	JWPCP	10.6.2020	Enriched	4727676
+JWPCP_10_13_2020	JWPCP	10.13.2020	Enriched	4291848
+JWPCP_8_11_2020	JWPCP	8.11.2020	Enriched	3351666
+JWPCP_8_18_2020	JWPCP	8.18.2020	Enriched	2913880
+JWPCP_8_25_2020	JWPCP	8.25.2020	Enriched	2131882
+JWPCP_9_01_2020	JWPCP	9.1.2020	Enriched	5114114
+JWPCP_9_08_2020	JWPCP	9.8.2020	Enriched	5196900
+JWPCP_9_15_2020	JWPCP	9.15.2020	Enriched	6382126
+JWPCP_9_22_2020	JWPCP	9.22.2020	Enriched	3881582
+NC_10_09_2020	NC	10.9.2020	Enriched	1498384
+NC_10_23_2020	NC	10.23.2020	Enriched	5837686
+NC_8_14_2020	NC	8.14.2020	Enriched	5222760
+NC_8_28_2020	NC	8.28.2020	Enriched	7276872
+NC_9_11_2020	NC	9.11.2020	Enriched	2984440
+OC_10_07_2020	OC	10.7.2020	Enriched	4312274
+OC_8_12_2020	OC	8.12.2020	Enriched	5205982
+OC_8_19_2020	OC	8.19.2020	Enriched	2243196
+OC_8_26_2020	OC	8.26.2020	Enriched	1757688
+OC_9_02_2020	OC	9.2.2020	Enriched	5259974
+OC_9_03_2020	OC	9.3.2020	Enriched	9526348
+OC_9_16_2020	OC	9.16.2020	Enriched	3135320
+OC_9_23_2020	OC	9.23.2020	Enriched	3326662
+OC_9_30_2020	OC	9.30.2020	Enriched	2629190
+PL_10_22_2020	PL	10.22.2020	Enriched	2094090
+PL_8_13_2020	PL	8.13.2020	Enriched	3475736
+PL_8_27_2020	PL	8.27.2020	Enriched	1925022
+PL_9_10_2020	PL	9.10.2020	Enriched	4663282
+PL_9_24_2020	PL	9.24.2020	Enriched	6346616
+SB_10_22_2020	SB	10.22.2020	Enriched	4460402
+SB_8_13_2020	SB	8.13.2020	Enriched	2678106
+SB_8_27_2020	SB	8.27.2020	Enriched	5966376
+SB_9_10_2020	SB	9.10.2020	Enriched	3923840
+SB_9_24_2020	SB	9.24.2020	Enriched	14392582
+SJ_10_07_2020	SJ	10.7.2020	Enriched	8383932
+SJ_10_14_2020	SJ	10.14.2020	Enriched	5601998
+SJ_10_21_2020	SJ	10.21.2020	Enriched	3733370
+SJ_10_28_2020	SJ	10.28.2020	Enriched	7368502
+SJ_8_12_2020	SJ	8.12.2020	Enriched	6633932
+SJ_8_19_2020	SJ	8.19.2020	Enriched	4615810
+SJ_8_26_2020	SJ	8.26.2020	Enriched	5919056
+SJ_9_02_2020	SJ	9.2.2020	Enriched	5020530
+SJ_9_09_2020	SJ	9.9.2020	Enriched	5350186
+SJ_9_16_2020	SJ	9.16.2020	Enriched	6100728
+SJ_9_30_2020	SJ	9.30.2020	Enriched	2450648
+HTP_10_02_2020_INF_unenriched	HTP	10.2.2020	Unenriched	8635242
+HTP_10_13_2020_INF_unenriched	HTP	10.13.2020	Unenriched	4005800
+HTP_10_20_2020_INF_unenriched	HTP	10.20.2020	Unenriched	8115554
+HTP_10_27_2020_INF_unenriched	HTP	10.27.2020	Unenriched	7516882
+HTP_8_11_2020_INF_unenriched	HTP	8.11.2020	Unenriched	5889742
+HTP_8_18_2020_INF_unenriched	HTP	8.18.2020	Unenriched	5190294
+HTP_8_25_2020_INF_unenriched	HTP	8.25.2020	Unenriched	6676830
+HTP_9_01_2020_INF_unenriched	HTP	9.1.2020	Unenriched	6688620
+HTP_9_08_2020_INF_unenriched	HTP	9.8.2020	Unenriched	6814734
+HTP_9_15_2020_INF_unenriched	HTP	9.15.2020	Unenriched	6679680
+JW_10_20_2020_INF_unenriched	JWPCP	10.20.2020	Unenriched	8261572
+JW_10_27_2020_INF_unenriched	JWPCP	10.27.2020	Unenriched	4201708
+JWPCP_10_06_2020_INF_unenriched	JWPCP	10.6.2020	Unenriched	6844006
+JWPCP_10_13_2020_INF_unenriched	JWPCP	10.13.2020	Unenriched	6017198
+JWPCP_8_11_2020_INF_unenriched	JWPCP	8.11.2020	Unenriched	3460508
+JWPCP_8_18_2020_INF_unenriched	JWPCP	8.18.2020	Unenriched	5725800
+JWPCP_8_25_2020_INF_unenriched	JWPCP	8.25.2020	Unenriched	4942788
+JWPCP_9_01_2020_INF_unenriched	JWPCP	9.1.2020	Unenriched	5763852
+JWPCP_9_08_2020_INF_unenriched	JWPCP	9.8.2020	Unenriched	7742176
+JWPCP_9_15_2020_INF_unenriched	JWPCP	9.15.2020	Unenriched	8275346
+JWPCP_9_22_2020_INF_unenriched	JWPCP	9.22.2020	Unenriched	6624366
+NC_10_09_2020_INF_unenriched	NC	10.9.2020	Unenriched	6783494
+NC_10_23_2020_INF_unenriched	NC	10.23.2020	Unenriched	7773426
+NC_8_14_2020_INF_unenriched	NC	8.14.2020	Unenriched	6466378
+NC_8_28_2020_INF_unenriched	NC	8.28.2020	Unenriched	6685894
+NC_9_11_2020_INF_unenriched	NC	9.11.2020	Unenriched	5555262
+OC_10_07_2020_INF_unenriched	OC	10.7.2020	Unenriched	6751428
+OC_8_12_2020_INF_unenriched	OC	8.12.2020	Unenriched	2096056
+OC_8_19_2020_INF_unenriched	OC	8.19.2020	Unenriched	4783434
+OC_8_26_2020_INF_unenriched	OC	8.26.2020	Unenriched	4932554
+OC_9_02_2020_INF_unenriched	OC	9.2.2020	Unenriched	7066420
+OC_9_03_2020_INF_unenriched	OC	9.3.2020	Unenriched	9456762
+OC_9_16_2020_INF_unenriched	OC	9.16.2020	Unenriched	2619010
+OC_9_23_2020_INF_unenriched	OC	9.23.2020	Unenriched	6520448
+OC_9_30_2020_INF_unenriched	OC	9.30.2020	Unenriched	5474012
+PL_10_22_2020_INF_unenriched	PL	10.22.2020	Unenriched	5592228
+PL_8_13_2020_INF_unenriched	PL	8.13.2020	Unenriched	5684190
+PL_8_27_2020_INF_unenriched	PL	8.27.2020	Unenriched	5091388
+PL_9_10_2020_INF_unenriched	PL	9.10.2020	Unenriched	8035826
+PL_9_24_2020_INF_unenriched	PL	9.24.2020	Unenriched	5806838
+SB_10_22_2020_INF_unenriched	SB	10.22.2020	Unenriched	5950680
+SB_8_13_2020_INF_unenriched	SB	8.13.2020	Unenriched	5332926
+SB_8_27_2020_INF_unenriched	SB	8.27.2020	Unenriched	6018272
+SB_9_10_2020_INF_unenriched	SB	9.10.2020	Unenriched	5155948
+SB_9_24_2020_INF_unenriched	SB	9.24.2020	Unenriched	12721600
+SJ_10_07_2020_INF_unenriched	SJ	10.7.2020	Unenriched	8385784
+SJ_10_14_2020_INF_unenriched	SJ	10.14.2020	Unenriched	10037188
+SJ_10_21_2020_INF_unenriched	SJ	10.21.2020	Unenriched	7986256
+SJ_10_28_2020_INF_unenriched	SJ	10.28.2020	Unenriched	8206080
+SJ_8_12_2020_INF_unenriched	SJ	8.12.2020	Unenriched	5786294
+SJ_8_19_2020_INF_unenriched	SJ	8.19.2020	Unenriched	5566272
+SJ_8_26_2020_INF_unenriched	SJ	8.26.2020	Unenriched	5569990
+SJ_9_02_2020_INF_unenriched	SJ	9.2.2020	Unenriched	5700780
+SJ_9_09_2020_INF_unenriched	SJ	9.9.2020	Unenriched	5975768
+SJ_9_16_2020_INF_unenriched	SJ	9.16.2020	Unenriched	6973552
+SJ_9_30_2020_INF_unenriched	SJ	9.30.2020	Unenriched	5389400
+HTP_01_03_2021_INF_unenriched	HTP	1.3.2021	Unenriched	11037594
+HTP_11_17_2020_INF_unenriched	HTP	11.17.2020	Unenriched	17005378
+HTP_11_24_2020_INF_unenriched	HTP	11.24.2020	Unenriched	13042360
+HTP_11_3_2020_INF_unenriched	HTP	11.3.2020	Unenriched	13763520
+HTP_12_01_2020_INF_unenriched	HTP	12.1.2020	Unenriched	13542826
+HTP_12_04_2020_INF_unenriched	HTP	12.4.2020	Unenriched	12129590
+HTP_12_15_2020_INF_unenriched	HTP	12.15.2020	Unenriched	13831454
+HTP_12_22_2020_INF_unenriched	HTP	12.22.2020	Unenriched	10704450
+HTP_12_29_2020_INF_unenriched	HTP	12.29.2020	Unenriched	15396852
+HTP_9_22_2020_INF_unenriched	HTP	9.22.2020	Unenriched	14719134
+HTP_9_29_2020_INF_unenriched	HTP	9.29.2020	Unenriched	13546314
+JWPCP_11_10_2020_INF_unenriched	JWPCP	11.10.2020	Unenriched	9027806
+JWPCP_11_17_2020_INF_unenriched	JWPCP	11.17.2020	Unenriched	12815952
+JWPCP_11_3_2020_INF_unenriched	JWPCP	11.3.2020	Unenriched	10263488
+JWPCP_9_29_2020_INF_unenriched	JWPCP	9.29.2020	Unenriched	7796028
+NC_11_6_2020_INF_unenriched	NC	11.6.2020	Unenriched	12153780
+NC_9_25_2020_INF_unenriched	NC	9.25.2020	Unenriched	8088694
+OC_11_11_2020_INF_unenriched	OC	11.11.2020	Unenriched	12180960
+OC_11_18_2020_INF_unenriched	OC	11.18.2020	Unenriched	11957514
+OC_11_25_2020_INF_unenriched	OC	11.25.2020	Unenriched	9734260
+OC_11_4_2020_INF_unenriched	OC	11.4.2020	Unenriched	8336018
+OC_11_9_2020_INF_unenriched	OC	11.9.2020	Unenriched	10563522
+OC_12_14_2020_INF_unenriched	OC	12.14.2020	Unenriched	10546976
+OC_12_21_2020_INF_unenriched	OC	12.21.2020	Unenriched	10074564
+PL_01_03_2021_INF_unenriched	PL	1.3.2021	Unenriched	9912424
+PL_01_04_2021_INF_unenriched	PL	1.4.2021	Unenriched	9844168
+PL_11_29_2020_INF_unenriched	PL	11.29.2020	Unenriched	11704898
+PL_11_30_2020_INF_unenriched	PL	11.30.2020	Unenriched	10463078
+PL_11_5_2020_INF_unenriched	PL	11.5.2020	Unenriched	7675926
+PL_12_14_2020_INF_unenriched	PL	12.14.2020	Unenriched	10104186
+PL_12_22_2020_INF_unenriched	PL	12.22.2020	Unenriched	9493284
+PL_12_28_2020_INF_unenriched	PL	12.28.2020	Unenriched	10208964
+SB_10_08_2020_INF_unenriched	SB	10.8.2020	Unenriched	11848768
+SB_11_5_2020_INF_unenriched	SB	11.5.2020	Unenriched	13090912
+SJ_11_11_2020_INF_unenriched	SJ	11.11.2020	Unenriched	12351058
+SJ_11_18_2020_INF_unenriched	SJ	11.18.2020	Unenriched	14485688
+SJ_11_4_2020_INF_unenriched	SJ	11.4.2020	Unenriched	11878374
+SJ_9_23_2020_INF_unenriched	SJ	9.23.2020	Unenriched	11448214
+HTP_01_03_2021	HTP	1.3.2021	Enriched	1530360
+HTP_11_24_2020	HTP	11.24.2020	Enriched	2305860
+HTP_11_3_2020	HTP	11.3.2020	Enriched	1730422
+HTP_12_04_2020	HTP	12.4.2020	Enriched	1919656
+HTP_12_22_2020	HTP	12.22.2020	Enriched	1669126
+HTP_12_29_2020	HTP	12.29.2020	Enriched	1899798
+HTP_9_22_2020	HTP	9.22.2020	Enriched	2120506
+HTP_9_29_2020	HTP	9.29.2020	Enriched	2365722
+JWPCP_11_10_2020	JWPCP	11.10.2020	Enriched	1803998
+JWPCP_11_17_2020	JWPCP	11.17.2020	Enriched	1711108
+JWPCP_11_3_2020	JWPCP	11.3.2020	Enriched	2209870
+JWPCP_9_29_2020	JWPCP	9.29.2020	Enriched	2063824
+OC_11_11_2020	OC	11.11.2020	Enriched	2357232
+OC_11_4_2020	OC	11.4.2020	Enriched	1831884
+OC_12_14_2020	OC	12.14.2020	Enriched	1709860
+OC_12_21_2020	OC	12.21.2020	Enriched	1654294
+PL_01_03_2021	PL	1.3.2021	Enriched	1937304
+PL_01_04_2021	PL	1.4.2021	Enriched	2364442
+PL_11_29_2020	PL	11.29.2020	Enriched	2143530
+PL_11_30_2020	PL	11.30.2020	Enriched	1507804
+PL_11_5_2020	PL	11.5.2020	Enriched	1182078
+PL_12_14_2020	PL	12.14.2020	Enriched	1988726
+PL_12_22_2020	PL	12.22.2020	Enriched	1792856
+PL_12_28_2020	PL	12.28.2020	Enriched	1798708
+SB_10_08_2020	SB	10.8.2020	Enriched	1749532
+SB_11_5_2020	SB	11.5.2020	Enriched	1785444
+SJ_11_11_2020	SJ	11.11.2020	Enriched	2265232
+SJ_11_18_2020	SJ	11.18.2020	Enriched	1945016
+SJ_11_4_2020	SJ	11.4.2020	Enriched	2208454
+SJ_9_23_2020	SJ	9.23.2020	Enriched	1650006
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
